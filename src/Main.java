@@ -5,7 +5,7 @@ public class Main {
         System.out.println("                     你好，我的朋友!");
         System.out.println("                  欢迎使用节点财资管理器");
         System.out.println("****************************************************************************" );
-        System.out.println("请问您需要什么服务？");
+        System.out.println("请问您需要什么服务");
         System.out.println("                  1) 设置金格" );
         System.out.println("                  2) 花费");
         System.out.println("                  3) 收入");
